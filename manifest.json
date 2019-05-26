@@ -1,0 +1,29 @@
+{
+   "manifest_version": 2,
+   "name": "Silver",
+   "version": "1",
+  "description": "Minimalistic silver theme for Google Chrome.",
+  "author": "Vadim Shellar <quadabrashell@gmail.com>",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 230, 230, 230 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_link_underline": [ 0, 0, 0 ],
+         "ntp_text": [ 0, 0, 0 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 228, 228, 228, 0.6 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "middle",
+         "ntp_background_repeat": "no-repeat"
+      }
+   }
+}
